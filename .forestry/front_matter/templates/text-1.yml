@@ -18,4 +18,4 @@ fields:
     wysiwyg: true
     schema:
       format: html-blocks
-  default: "<p>Yadda yadda.</p>"
+  default: "<p></p>"
