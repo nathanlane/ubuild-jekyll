@@ -13,8 +13,6 @@ page_sections:
     link_text: About
   - link: "#"
     link_text: Blog
-  - link: "#"
-    link_text: Team
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
@@ -74,7 +72,7 @@ page_sections:
     article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: nathaniellane@monash.edu
 ---
 
 foo bar
