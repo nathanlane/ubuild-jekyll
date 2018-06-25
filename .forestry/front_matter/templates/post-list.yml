@@ -1,0 +1,10 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: blocks
+  hidden: false
+  label: Post List
+  name: post_list
+  description: List of blog posts
+  template_types: []
