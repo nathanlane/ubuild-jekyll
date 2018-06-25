@@ -12,7 +12,7 @@ page_sections:
   - link: "#"
     link_text: About
   - link: "#"
-    link_text: Pricing
+    link_text: Blog
   - link: "#"
     link_text: Team
   cta:
