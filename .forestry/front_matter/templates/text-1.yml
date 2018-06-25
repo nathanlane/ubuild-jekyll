@@ -10,6 +10,7 @@ fields:
 - type: text
   name: headline
   label: Headline
+  default: Text in Text 1 Goes Here
 - type: textarea
   name: content
   label: Content
@@ -17,3 +18,4 @@ fields:
     wysiwyg: true
     schema:
       format: html-blocks
+  default: "<p>Yadda yadda.</p>"
