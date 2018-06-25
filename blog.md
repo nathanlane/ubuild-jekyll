@@ -7,7 +7,8 @@ page_sections:
   block: header-3
 - template: 1-column-text
   block: one-column-1
-  content: "&lt;ul&gt;"
+  content: '&lt;ul&gt;{% for post in site.posts %}&lt;li&gt;&lt;a href="{{ post.url
+    }}"&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;{% endfor %}&lt;/ul&gt;'
 - template: simple-footer
   block: footer-1
 - template: navigation-header
