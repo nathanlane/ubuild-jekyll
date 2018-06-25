@@ -3,7 +3,7 @@ hide_body: false
 is_partial: true
 fields:
 - type: blocks
-  hidden: false
+  hidden: true
   label: Post List
   name: post_list
   description: List of blog posts
