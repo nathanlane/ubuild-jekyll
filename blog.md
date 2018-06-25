@@ -7,7 +7,10 @@ page_sections:
   block: header-3
 - template: 1-column-text
   block: one-column-1
+  content: "&lt;ul&gt;"
 - template: simple-footer
   block: footer-1
+- template: navigation-header
+  block: header-1
 published: false
 ---
