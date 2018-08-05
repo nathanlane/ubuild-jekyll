@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: ''
     link_text: Home
-  - link: "/"
-    link_text: Home
+  - link: "/research"
+    link_text: Projects
   - link: "#"
     link_text: About
   - link: "#"
