@@ -18,9 +18,10 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: "<strong>Nathan Lane Ph.D. I'm an economist. I study political economics,
+    economic development, the history of economic policy around the world. I like
+    statistical learning and messy data.</strong>"
+  content: ''
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
@@ -73,6 +74,7 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: nathaniellane@monash.edu
+
 ---
 
 foo bar
