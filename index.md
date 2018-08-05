@@ -12,7 +12,7 @@ page_sections:
   - link: "/research"
     link_text: Projects
   - link: "#"
-    link_text: About
+    link_text: CV Mumbo Jumbo
   - link: "#"
     link_text: Blog
   cta:
