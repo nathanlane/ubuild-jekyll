@@ -1,4 +1,5 @@
 ---
+label: Page builder
 hide_body: true
 is_partial: false
 fields:
@@ -32,6 +33,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- blog.md
-- index.md
 - _posts/2018-06-25-here-is-a-post.md
+- index.md
