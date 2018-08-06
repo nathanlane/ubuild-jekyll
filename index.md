@@ -20,9 +20,10 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<strong>Nathan Lane Ph.D. I'm an economist. I study political economics,
-    economic development, the history of economic policy around the world. I like
-    statistical learning and messy data.</strong>"
+  headline: Nathan Lane, Ph.D. I study <a href="https://books.google.com/ngrams/graph?content=economics%2Cpolitical+economy&amp;year_start=1776&amp;year_end=2008&amp;corpus=15&amp;smoothing=0&amp;share=&amp;direct_url=t1%B%2Ceconomics%3B%2Cc0%3B.t1%3B%2Cpolitical%20economy%3B%2Cc0"
+    title="">political economics</a>, <a href="http://scholar.harvard.edu/files/shleifer/files/indust_big_push.pdf"
+    title="">development economics</a>, and <a href="http://eh.net/eha/about/" title="">economic
+    history</a>.
   content: ''
   cta:
     enabled: true
