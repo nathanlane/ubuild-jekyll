@@ -4,16 +4,9 @@ style="background-image: url('{{ section.background_image | relative_url }}')"
 {% endif %}>
   <div class="container">
     <div class="columns">
-      <div class="column text">
-        <h1><span class="light">{{ section.headline }}</span></h1>
+        <h1><div class="lilguy"></div>Nathan Lane, Ph.D.
+        {{ section.headline }}</h1>
         <p>{{ section.content }}</p>
-        {% if section.cta and section.cta.enabled == true %}
-        <a class="button primary inverted" href="{{ section.cta.url }}">{{ section.cta.button_text }}</a>
-        {% endif %}
-      </div>
-      <div class="column media">
-        <img src="{{ section.image.image | relative_url }}" alt="{{ section.image.alt_text }}">
-      </div>
     </div>
   </div>
 </section>

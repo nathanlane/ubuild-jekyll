@@ -78,5 +78,3 @@ page_sections:
   content: nathaniellane@monash.edu
 
 ---
-
-foo bar

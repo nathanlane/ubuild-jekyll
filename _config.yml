@@ -1,4 +1,4 @@
-title: uBuild Design Blocks
+title: Cool
 author: Forestry.io
 email: support@forestry.io
 description: >-
@@ -18,6 +18,15 @@ markdown: kramdown
 gems:
   - jekyll-feed
   - jekyll-menus
+  - jekyll-assets
+  - jekyll-paginate
+
+assets:
+  prefix: "/assets"
+  sources:
+      -   _assets/css
+      -   _assets/img
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
