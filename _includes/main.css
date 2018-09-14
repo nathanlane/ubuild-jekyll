@@ -345,12 +345,12 @@ input.inverted::placeholder{
     height: 191px;
     background-repeat: no-repeat;
     background-position: left top;
-    background-image: url('dedcrop_v2.png');
+    background-image: url('/dedcrop_v2.png');
     margin-right: 30px;
     margin-bottom: 10px
 }
 .block-hero-2 .lilguy:hover{
-    background-image: url('dedcrop_v2_blink.png');    
+    background-image: url('/dedcrop_v2_blink.png');    
 }
 .block-hero-2,.block-hero-2 .columns{
     display:-ms-flexbox;
