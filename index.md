@@ -35,6 +35,9 @@ page_sections:
     image: ''
     alt_text: Product Shot
   background_image: ''
+- template: text-only-hero-banner
+  block: hero-1
+  heading: Cool Bro<br>Cool Bro<br><br>Cool Bro!
 - template: content-feature
   block: feature-1
   media_alignment: Left
