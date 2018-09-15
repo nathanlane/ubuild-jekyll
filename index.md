@@ -43,10 +43,23 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: "<strong>Current Working Paper</strong>"
+  content: '<a href="https://www.dropbox.com/s/b9mll7fx26j6uia/ManufacturingRevolutions_Lane_Live.pdf?dl=0">Manufacturing
+    Revolutions - Industrial Policy and Networks in South Korea</a><strong><br><br>Abstract</strong>
+    - This paper uses a historic big push intervention with  digitized data from South
+    Korea to study the effects of industrial  policy on (short- and long-run) industrial
+    development. In 1973 South  Korea transitioned to a military dictatorship and
+    drastically changed  their development strategy. I find industries targeted by
+    the regime''s  big push grew significantly more than non-targeted industries along  several
+    key dimensions of industrial development. These developmental  effects persisted
+    after industrial policies were retrenched, following  the 1979 assassination of
+    the president. Furthermore, I estimate the  spillovers of the industrial policies
+    using exogenous variation in the  exposure to the policy across the input-output
+    network. I find evidence  of persistent pecuniary externalities like those posited
+    by big push  development theorists, such as Albert Hirschman. In other words,
+    I find  that South Korea’s controversial industrial policy was successful in  producing
+    industrial development, the benefits of which persisted  through time and in industries
+    not directly targeted by the policies.   '
   media:
     image: "/uploads/2018/09/15/CirJagAUYAA4a0k.jpg large.jpg"
     alt_text: Park Chung Hee and LJB at the White House, 1965.
