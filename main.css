@@ -168,11 +168,14 @@ input.inverted::placeholder{
     list-style:none;
     margin-right:16px;
     margin-right:1rem;
-    font-size:13.6px;
-    font-size:.85rem
+    font-weight: 400;
+    text-decoration: none;
+    font-size:16.5px;
+    font-size:1.5rem;
+    letter-spacing: 1px;
 }
 .block-header-1 .nav-item.active a{
-    color:#ffcb3c
+    color: #9E1518
 }
 .block-header-1 .nav-item a{
     text-decoration:none;
@@ -182,11 +185,14 @@ input.inverted::placeholder{
     color:#666
 }
 .block-header-1 .nav-item.active a:hover{
-    color:#ffcb3c
+    color:#9E1518
 }
 .block-header-1 .nav-item:last-of-type{
     margin:0
 }
+
+
+
 .block-header-2{
     background-color:#fdfdfd;
     color:#2c2e3e;
