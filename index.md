@@ -10,6 +10,8 @@ page_sections:
     link_text: Home
   - link: http://nathanlane.info/Research
     link_text: Research
+  - link: http://www.dropbox.com/
+    link_text: CV
   - link_text: Twitter
     link: http://twitter.com/straightedge
 - template: hero-banner-w-image
