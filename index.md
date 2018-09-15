@@ -65,7 +65,7 @@ page_sections:
     alt_text: Park Chung Hee and LJB at the White House, 1965.
 - template: 1-column-text
   block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
+  headline: Upcoming Talks
   content: "The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using Forestry. Once the site is imported you can immediately
     create new sites and make them fully customizable. \U0001F447"
