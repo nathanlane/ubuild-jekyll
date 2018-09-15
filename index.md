@@ -14,8 +14,6 @@ page_sections:
     link_text: Contact
   - link: http://www.dropbox.com/
     link_text: CV
-  - link_text: Twitter
-    link: http://twitter.com/straightedge
 - template: hero-banner-w-image
   block: hero-2
   headline: <a href="mailto:nathaniel.lane@monash.edu" title=""><strong>Dr. Nathan
