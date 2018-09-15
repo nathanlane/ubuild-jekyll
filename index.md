@@ -10,7 +10,7 @@ page_sections:
     link_text: Home
   - link: http://nathanlane.info/Research
     link_text: Research
-  - link: http://nathanlane.info
+  - link: http://nathanlane.info/blog
     link_text: Blog
   - link: http://nathanlane.info
     link_text: Contact
