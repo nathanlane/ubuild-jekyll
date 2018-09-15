@@ -20,8 +20,8 @@ page_sections:
     Lane</strong></a><strong>, Assistant Professor at Monash University. I work in
     </strong><a href="https://books.google.com/ngrams/graph?content=economics%2Cpolitical+economy&amp;year_start=1776&amp;year_end=2008&amp;corpus=15&amp;smoothing=0&amp;share=&amp;direct_url=t1%B%2Ceconomics%3B%2Cc0%3B.t1%3B%2Cpolitical%20economy%3B%2Cc0"
     title=""><strong>political economics</strong></a><strong>, </strong><a href="http://scholar.harvard.edu/files/shleifer/files/indust_big_push.pdf"
-    title=""><strong>development</strong></a><strong>, &amp; </strong><a href="http://eh.net/eha/about/"
-    title=""><strong>economic history</strong></a><strong>.</strong>
+    title=""><strong>development</strong></a><strong>, and </strong><a href="http://eh.net/eha/about/"
+    title=""><strong>economic history</strong></a><strong>. </strong>
   content: ''
   cta:
     enabled: true
@@ -40,35 +40,22 @@ page_sections:
     href="" title=""><strong>unstructured data</strong></a><strong>.</strong><br><br><strong>I
     research the political economy of industrialization and development strategy.
     I'm especially interested in </strong><a href="" title=""><strong>industrial policy</strong></a><strong>.</strong>
-- template: 1-column-text
-  block: one-column-1
-  headline: Upcoming Talks
-  content: Asian Economic History Conference - Hong Kong<br>University of Melbourne<br>University
-    of Technology Sydney<br>University of Sydney<br>Geneva Graduate Institute<br>University
-    of Queensland
 - template: content-feature
   block: feature-1
-  media_alignment: Left
-  headline: "<strong>Current Working Paper<br></strong>"
-  content: '<strong>Download</strong> <a href="http://dropbox.com" title="">Manufacturing
-    Revolutions - Industrial Policy and Networks in South Korea</a><br><strong><br>Abstract</strong>
-    This paper uses a historic big push intervention with digitized data from  South
-    Korea to study the effects of industrial policy on (short- and  long-run) industrial
-    development. In 1973 South Korea transitioned to a  military dictatorship and
-    drastically changed their development  strategy. I find industries targeted by
-    the regime''s big push grew  significantly more than non-targeted industries along
-    several key  dimensions of industrial development. These developmental effects  persisted
-    after industrial policies were retrenched, following the 1979  assassination of
-    the president. Furthermore, I estimate the spillovers  of the industrial policies
-    using exogenous variation in the exposure to  the policy across the input-output
-    network. I find evidence of  persistent pecuniary externalities like those posited
-    by big push  development theorists, such as Albert Hirschman. In other words,
-    I find  that South Korea’s controversial industrial policy was successful in  producing
-    industrial development, the benefits of which persisted  through time and in industries
-    not directly targeted by the policies.   '
+  media_alignment: Right
+  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
+    edits throughout your new site</span>
+  content: Each block comes with custom Front Matter that can easily be edited in
+    Forestry's UI.
   media:
-    image: "/uploads/2018/09/15/CirJagAUYAA4a0k.jpg large.jpg"
-    alt_text: Pres. Park Chung Hee and Pres. Lydon B. Johnson, 1965 at the White House
+    image: "/uploads/2018/06/21/edit.gif"
+    alt_text: Customize Blocks
+- template: 1-column-text
+  block: one-column-1
+  headline: 16 Fully Responsive Design Blocks
+  content: "The Design Blocks can be used without Forestry but to harness the power
+    of Blocks we recommend using Forestry. Once the site is imported you can immediately
+    create new sites and make them fully customizable. \U0001F447"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
@@ -86,8 +73,8 @@ page_sections:
     article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: <a href="mailto:nathaniel.lane@gmail.com" title=""><strong>nathaniel.lane@monash.edu</strong></a><strong>
-    </strong> <span class="box">•  </span>Nathan Lane, 2014-2018  <span class="box">•  Opinions
-    on this site do not reflect my affiliate institutions.</span>
+  content: <a href="mailto:nathaniel.lane@gmail.com" title="">nathaniel.lane@monash.edu</a>
+    <span class="box">• </span>Nathan Lane, 2014-2018 <span class="box">• None of
+    this garbage reflects my institution.</span>
 
 ---
