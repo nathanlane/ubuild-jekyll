@@ -25,6 +25,7 @@ fields:
   - hero-banner-w-image
   - content-feature
   - detail-content
+  - text-1
   - 1-column-text
   - 2-column-text
   - 3-column-text
@@ -32,6 +33,7 @@ fields:
   - 2-column-media-element
   - signup-bar
   - simple-footer
+  - post-list
   - 4-column-footer
 pages:
 - blog.md
