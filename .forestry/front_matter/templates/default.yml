@@ -9,4 +9,5 @@ fields:
   hidden: false
   default: default
 pages:
+- blog.md
 - post-list.md
