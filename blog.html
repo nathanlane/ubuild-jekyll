@@ -5,8 +5,8 @@ type: page
 navigation: true
 image: header-1.png
 gradient: 1
----
 
+---
 <div class="summary">
 
   <p>Musing on economic development, economic history, political economy, & big data techniques for social scientists.
@@ -14,9 +14,11 @@ gradient: 1
 
 </div>
 
-
+<ul>
 {% for post in site.posts %}
-
-  {% include summary.html %}
-  
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
 {% endfor %}
+</ul>
+  
