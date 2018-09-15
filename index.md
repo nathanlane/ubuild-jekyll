@@ -8,12 +8,10 @@ page_sections:
   navigation:
   - link: ''
     link_text: Home
-  - link: http://nathanlane.info/Research
-    link_text: Research
   - link: http://nathanlane.info
     link_text: Contact
-  - link: http://www.dropbox.com/
-    link_text: CV
+  - link: http://nathanlane.info/Research
+    link_text: Research
 - template: hero-banner-w-image
   block: hero-2
   headline: <a href="mailto:nathaniel.lane@monash.edu" title=""><strong>Dr. Nathan
