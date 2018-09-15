@@ -11,6 +11,8 @@ page_sections:
   - link: http://nathanlane.info/Research
     link_text: Research
   - link: http://nathanlane.info
+    link_text: Blog
+  - link: http://nathanlane.info
     link_text: Contact
   - link: http://www.dropbox.com
     link_text: CV
