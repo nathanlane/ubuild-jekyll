@@ -51,7 +51,7 @@ page_sections:
   media_alignment: Left
   headline: "<strong>Current Working Paper<br></strong>"
   content: '<strong>Download</strong> <a href="http://dropbox.com" title="">Manufacturing
-    Revolution - Industrial Policy and Networks in South Korea</a><br><strong><br>Abstract</strong>
+    Revolutions - Industrial Policy and Networks in South Korea</a><br><strong><br>Abstract</strong>
     This paper uses a historic big push intervention with digitized data from  South
     Korea to study the effects of industrial policy on (short- and  long-run) industrial
     development. In 1973 South Korea transitioned to a  military dictatorship and
