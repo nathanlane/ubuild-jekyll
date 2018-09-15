@@ -6,12 +6,12 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: http://nathanlane.info
+  - link: ''
     link_text: Home
-  - link: http://nathanlane.info/projects
-    link_text: Projects
-  - link_text: Blog
-    link: http://nathanlane.info/blog
+  - link: http://nathanlane.info/Research
+    link_text: Research
+  - {}
+  - {}
 - template: hero-banner-w-image
   block: hero-2
   headline: <a href="mailto:nathaniel.lane@monash.edu" title=""><strong>Dr. Nathan
