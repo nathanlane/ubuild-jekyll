@@ -6,7 +6,7 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: http://nathanlane.info
+  - link: ''
     link_text: Home
 - template: hero-banner-w-image
   block: hero-2
