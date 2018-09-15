@@ -40,6 +40,12 @@ page_sections:
     href="" title=""><strong>unstructured data</strong></a><strong>.</strong><br><br><strong>I
     research the political economy of industrialization and development strategy.
     I'm especially interested in </strong><a href="" title=""><strong>industrial policy</strong></a><strong>.</strong>
+- template: 1-column-text
+  block: one-column-1
+  headline: Upcoming Talks
+  content: Asian Economic History Conference - Hong Kong<br>University of Melbourne<br>University
+    of Technology Sydney<br>University of Sydney<br>Geneva Graduate Institute<br>University
+    of Queensland
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -49,22 +55,6 @@ page_sections:
   media:
     image: "/uploads/2018/09/15/CirJagAUYAA4a0k.jpg large.jpg"
     alt_text: Pres. Park Chung Hee and Pres. Lydon B. Johnson, 1965 at the White House
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
-  media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
