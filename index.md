@@ -48,8 +48,8 @@ page_sections:
   content: Each block comes with custom Front Matter that can easily be edited in
     Forestry's UI.
   media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
+    image: "/uploads/2018/09/15/CirJagAUYAA4a0k.jpg large.jpg"
+    alt_text: Park Chung Hee and LJB at the White House, 1965.
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
