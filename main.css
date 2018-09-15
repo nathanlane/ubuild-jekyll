@@ -291,7 +291,7 @@ input.inverted::placeholder{
 .block-hero-1:after {
   content: "";
   position: absolute;
-  background-image: url('cern.jpg');
+  background-image: url('/assets/img/cern.jpg');
   background-size: cover;
   background-repeat: no-repeat;  
   top: 0;
@@ -573,7 +573,7 @@ input.inverted::placeholder{
 .block-footer-1{
     font-size:12.8px;
     font-size:.8rem;
-    color:#666;
+    color:#2c2e3e;
     text-align:center
 }
 .block-footer-2 .columns{
