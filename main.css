@@ -39,9 +39,10 @@ h3,p{
 p{
     font-weight:400;
     font-size: 18rem;
-    font-size: 1.2rem;
-    line-height:1.35
-    color:#666
+    font-size: 1.3rem;
+    line-height:1.7;
+    color: #31344C;
+    letter-spacing: -.1px;
 }
 a{
     color: inherit;
