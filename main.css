@@ -161,7 +161,16 @@ input.inverted::placeholder{
 }
 .block-header-1--logo img{
     max-height:24px;
-    max-height:1.5rem
+    max-height:1.5rem;
+    display:inline-block;
+    list-style:none;
+    margin-right:16px;
+    margin-right:1rem;
+    font-weight: 400;
+    text-decoration: none;
+    font-size:16.5px;
+    font-size:1.5rem;
+    letter-spacing: 1px;
 }
 .block-header-1 .nav-item{
     display:inline-block;
