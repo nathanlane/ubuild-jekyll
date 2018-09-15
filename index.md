@@ -43,9 +43,9 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Upcoming Talks</strong>"
-  content: Asian Economic History Conference<br>Melbourne University<br>UTS<br>University
-    of Sydney<br>Geneva<br>University of Queensland
+  headline: <strong>Current Working Paper<br></strong><a href="http://dropbox.com"
+    title="">Manufacturing Revolution - Industrial Policy and Networks in South Korea</a>
+  content: Download here and see.
   media:
     image: "/uploads/2018/09/15/CirJagAUYAA4a0k.jpg large.jpg"
     alt_text: Pres. Park Chung Hee and Pres. Lydon B. Johnson, 1965 at the White House
