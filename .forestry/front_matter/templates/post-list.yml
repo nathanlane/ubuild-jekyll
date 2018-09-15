@@ -9,3 +9,6 @@ fields:
   name: post_list
   description: List of blog posts
   template_types: []
+  config:
+    min: '1'
+    max: '10'
