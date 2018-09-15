@@ -6,8 +6,14 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link_text: Monash Stuff 2
-  - link_text: Monash Stuff 1
+  - link: ''
+    link_text: Home
+  - link: http://nathanlane.info/Research
+    link_text: Research
+  - link: http://nathanlane.info
+    link_text: Contact
+  - link: http://www.dropbox.com
+    link_text: CV
 - template: hero-banner-w-image
   block: hero-2
   headline: <a href="mailto:nathaniel.lane@monash.edu" title=""><strong>Dr. Nathan
@@ -27,13 +33,13 @@ page_sections:
   background_image: ''
 - template: text-only-hero-banner
   block: hero-1
-  heading: <strong>I enjoy using<span class="Apple-converted-space"> </span></strong><a
-    href="" title=""><strong>statistical learning</strong></a><strong><span class="Apple-converted-space">
-    </span>and<span class="Apple-converted-space"> </span>computational tools<span
-    class="Apple-converted-space"> </span>to work with old, forgotten, and </strong><a
-    href="" title=""><strong>unstructured data</strong></a><strong>.</strong><br><br><strong>I
-    research the political economy of industrialization and development strategy.
-    I'm especially interested in </strong><a href="" title=""><strong>industrial policy</strong></a><strong>.</strong>
+  heading: <strong>I enjoy using<span class="Apple-converted-space">&nbsp;</span></strong><a
+    href="" title=""><strong>statistical learning</strong></a><strong><span class="Apple-converted-space">&nbsp;</span>and<span
+    class="Apple-converted-space">&nbsp;</span>computational tools<span class="Apple-converted-space">&nbsp;</span>to
+    work with old, forgotten, and </strong><a href="" title=""><strong>unstructured
+    data</strong></a><strong>.</strong><br><br><strong>I research the political economy
+    of industrialization and development strategy. I'm especially interested in </strong><a
+    href="" title=""><strong>industrial policy</strong></a><strong>.</strong>
 - template: content-feature
   block: feature-1
   media_alignment: Left
