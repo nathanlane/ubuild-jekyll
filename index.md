@@ -47,8 +47,8 @@ page_sections:
   content: Asian Economic History Conference<br>Melbourne University<br>UTS<br>University
     of Sydney<br>Geneva<br>University of Queensland
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2018/09/15/CirJagAUYAA4a0k.jpg large.jpg"
+    alt_text: Pres. Park Chung Hee and Pres. Lydon B. Johnson, 1965 at the White House
 - template: content-feature
   block: feature-1
   media_alignment: Right
