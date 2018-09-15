@@ -10,8 +10,8 @@ page_sections:
     link_text: Home
   - link: http://nathanlane.info/Research
     link_text: Research
-  - {}
-  - {}
+  - link_text: Twitter
+    link: http://twitter.com/straightedge
 - template: hero-banner-w-image
   block: hero-2
   headline: <a href="mailto:nathaniel.lane@monash.edu" title=""><strong>Dr. Nathan
