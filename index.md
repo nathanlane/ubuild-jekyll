@@ -10,9 +10,8 @@ page_sections:
     link_text: Home
   - link: http://nathanlane.info/projects
     link_text: Projects
-  - {}
-  - link: ''
-    link_text: Home
+  - link_text: Blog
+    link: http://nathanlane.info/blog
 - template: hero-banner-w-image
   block: hero-2
   headline: <a href="mailto:nathaniel.lane@monash.edu" title=""><strong>Dr. Nathan
