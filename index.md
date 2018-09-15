@@ -5,6 +5,9 @@ date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
+  navigation:
+  - link_text: Monash Stuff 2
+  - link_text: Monash Stuff 1
 - template: hero-banner-w-image
   block: hero-2
   headline: <a href="mailto:nathaniel.lane@monash.edu" title=""><strong>Dr. Nathan
