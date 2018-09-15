@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: Nathanlane.info
 date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header
