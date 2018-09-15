@@ -36,5 +36,6 @@ fields:
   - post-list
   - 4-column-footer
 pages:
+- blog.md
 - index.md
 - _posts/2018-06-25-here-is-a-post.md
