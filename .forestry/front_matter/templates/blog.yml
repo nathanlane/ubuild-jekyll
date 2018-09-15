@@ -1,7 +1,7 @@
 ---
 label: Blog
 hide_body: false
-is_partial: true
+is_partial: false
 fields: []
 pages:
 - blog.md
