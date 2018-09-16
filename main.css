@@ -435,8 +435,6 @@ input.inverted::placeholder{
         max-width:520px
     }
 }
-<!--- Third block --->
-
 .block-hero-3{
     display:-ms-flexbox;
     position: relative;
@@ -482,9 +480,6 @@ input.inverted::placeholder{
         min-height:100vh
     }
 }
-
-<!--- Third block --->
-
 .block-one-column-1 .columns{
     display:-ms-flexbox;
     display:flex;
