@@ -83,6 +83,10 @@ page_sections:
     headline: Contact
     content: <strong>Phone (Australia)</strong> +61 (0)399032384<br><strong>Email
       </strong><a href="mailto:nathaniel.lane@monash.edu" title="">nathaniel.lane@monash.edu</a>
+  col_2:
+    headline: Social Media
+    content: <strong>(Econ) Twitter </strong><a href="https://www.twitter.com/straightedge"
+      title=""><strong>@straightedge</strong></a>
 - template: simple-footer
   block: footer-1
   content: <a href="mailto:nathaniel.lane@gmail.com" title=""><strong>nathaniel.lane@monash.edu</strong></a>
