@@ -84,5 +84,8 @@ page_sections:
     this garbage reflects my institution.</span>
 - template: 4-column-footer
   block: footer-2
+  col_2: "<strong>Nathaniel.Lane@monash.edu</strong>"
+  col_3: Nathan Lane, 2014-2018.
+  col_4: "<strong>This terrible blog does not reflect the view of my employer(s).</strong>"
 
 ---
