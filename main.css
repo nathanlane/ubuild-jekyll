@@ -463,7 +463,7 @@ input.inverted::placeholder{
     right: 0;
     bottom: 0;
     z-index: -1;
-    opacity: 1;
+    opacity: .9;
 }
 .block-hero-3 a{
     box-shadow: none;
