@@ -4,7 +4,7 @@ hide_body: false
 is_partial: true
 fields:
 - type: blocks
-  name: block
+  name: block-4
   label: Block
   description: block
   hidden: true
