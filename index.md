@@ -63,25 +63,14 @@ page_sections:
     industrial development, the benefits of which persisted  through time and in industries
     not directly targeted by the policies.   '
   media:
-    image: "/uploads/2018/09/15/CirJagAUYAA4a0k.jpg large.jpg"
-    alt_text: Park Chung Hee and LJB at the White House, 1965.
+    image: ''
+    alt_text: ''
 - template: 1-column-text
   block: one-column-1
   headline: Upcoming Talks
   content: "The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using Forestry. Once the site is imported you can immediately
     create new sites and make them fully customizable. \U0001F447"
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    headline: Contact
-    content: '<strong>Phone (Australia)</strong> +61 (0)399032384<br><strong>Email
-      </strong><a href="mailto:nathaniel.lane@monash.edu" title="">nathaniel.lane@monash.edu</a><br><strong>Office
-      hours </strong>(<a href="mailto:nathaniel.lane@monash.edu" title="">email me</a>) '
-  col_2:
-    headline: Social Media
-    content: <strong>(Econ) Twitter </strong><a href="https://www.twitter.com/straightedge"
-      title=""><strong>@straightedge</strong></a>
 - template: detail-content
   block: text-1
   headline: Upcoming Talks
@@ -94,6 +83,17 @@ page_sections:
     Policy Conference</p><p><a href="http://graduateinstitute.ch/home.html" title=""><em>The
     Graduate Institute Geneva</em></a><em>, November 20</em></p></li><li><p>University
     of Queensland<br><em>TBA</em></p></li></ul>
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Contact
+    content: '<strong>Phone (Australia)</strong> +61 (0)399032384<br><strong>Email
+      </strong><a href="mailto:nathaniel.lane@monash.edu" title="">nathaniel.lane@monash.edu</a><br><strong>Office
+      hours </strong>(<a href="mailto:nathaniel.lane@monash.edu" title="">email me</a>) '
+  col_2:
+    headline: Social Media
+    content: <strong>(Econ) Twitter </strong><a href="https://www.twitter.com/straightedge"
+      title=""><strong>@straightedge</strong></a>
 - template: simple-footer
   block: footer-1
   content: Nathan Lane, 2014-2018 <span class="box">• None of this garbage reflects
