@@ -8,3 +8,6 @@ fields:
   label: block
   description: block
   hidden: true
+- type: textarea
+  name: header
+  label: Header
