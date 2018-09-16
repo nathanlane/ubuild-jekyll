@@ -97,6 +97,10 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Nathan Lane, 2014-2018 <span class="box">• None of this garbage reflects
-    my institution.</span>
+    my institution. • CSS hacked by me, forked from </span><a href="" title=""><span
+    class="box">Forestry.io</span></a><span class="box">'s wonderful </span><a href="https://jekyllrb.com/"
+    title=""><span class="box">Jekyll</span></a><span class="box"> theme/git, </span><a
+    href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/"
+    title=""><span class="box">ubuild</span></a><span class="box">.</span>
 
 ---
