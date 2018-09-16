@@ -6,22 +6,41 @@ navigation: true
 
 ---
 
+<header class="block block-header-1">
+
+  <div class="block-header-1--logo">
+  <a href="http://nathanlane.info">Nathanlane.info</a>
+  </div>
+
+  <nav class="block-header-1--nav">
+    <ul>
+      {% for nav_item in section.navigation %}
+      <li class="nav-item {% if page.url == nav_item.link %}active{% endif %}"><a href="{{ nav_item.link }}">{{ nav_item.link_text }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+
+</header>
+
 {% for post in site.posts limit:20 %}
 
-<section class="block block-text-1">
+<section class="block block-one-column-1">
   <div class="container">
     <div class="columns">
-      <div class="column headline">
+      <div class="column">
         <h3>{{ post.title }}</h3>
-      </div>
-      <div class="column text">
-        {{ post.content | strip_html | truncatewords: 20 }}
+        <p>{{ post.content | strip_html | truncatewords: 20 }}</p>
         <br>
         <a href="{{ post.url }}">Read more.</a>
-      </div>
+      </div>        
     </div>
   </div>
 </section>
 
 {% endfor %}
 
+<footer class="block block-footer-1">
+  <div class="container">
+    <p>{{ section.content }}</p>
+  </div>
+</footer>
