@@ -71,13 +71,13 @@ page_sections:
   block: text-1
   headline: Upcoming Talks
   content: <ul><li><p><a href="http://www.asiaglobalinstitute.hku.hk/en/events/ahec2018/"
-    title="">Asian Economic History Conference</a></p><p><em>Hong Kong, September
-    21-22</em></p></li><li><p>University of Technology Sydney</p><p><em>Department
-    of Economics, October 10</em></p></li><li><p>University of Sydney</p><p><em>Department
-    of Economics, October 12</em></p></li><li><p>University of Melbourne</p><p><em>Department
-    of Economics, October 17</em></p></li><li><p>The Blended Finance and Industrial
-    Policy Conference</p><p><a href="http://graduateinstitute.ch/home.html" title=""><em>The
-    Graduate Institute Geneva</em></a><em>, November 20</em></p></li><li><p>University
+    title="">Asian Economic History Conference</a></p><p><a href=" <a name=&quot;original&quot;></a>"
+    title=""><em>Hong Kong, September 21-22</em></a></p></li><li><p>University of
+    Technology Sydney</p><p><em>Department of Economics, October 10</em></p></li><li><p>University
+    of Sydney</p><p><em>Department of Economics, October 12</em></p></li><li><p>University
+    of Melbourne</p><p><em>Department of Economics, October 17</em></p></li><li><p>The
+    Blended Finance and Industrial Policy Conference</p><p><a href="http://graduateinstitute.ch/home.html"
+    title=""><em>The Graduate Institute Geneva</em></a><em>, November 20</em></p></li><li><p>University
     of Queensland<br><em>TBA</em></p></li></ul>
 - template: 2-column-text
   block: two-column-1
