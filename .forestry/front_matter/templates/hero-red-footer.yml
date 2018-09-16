@@ -5,6 +5,6 @@ is_partial: true
 fields:
 - type: blocks
   name: block-4
-  label: Block
+  label: block
   description: block
   hidden: true
