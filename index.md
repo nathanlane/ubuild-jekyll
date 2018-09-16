@@ -89,7 +89,7 @@ page_sections:
   col_2:
     headline: Social Media
     content: <strong>(Econ) Twitter </strong><a href="https://www.twitter.com/straightedge"
-      title=""><strong>@straightedge</strong></a>
+      title="">@straightedge</a>
 - template: simple-footer
   block: footer-1
   content: Nathan Lane, 2014-2018 <span class="box">• None of this garbage reflects
