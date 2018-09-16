@@ -2,20 +2,6 @@
 title: Land, Labor, & Capital
 layout: blog
 type: page
-navigation: true
-- template: navigation-header
-  block: header-1
-  navigation:
-  - link: ''
-    link_text: Home
-  - link: http://nathanlane.info/Research
-    link_text: Research
-  - link: http://nathanlane.info/blog
-    link_text: Blog
-  - link: http://nathanlane.info
-    link_text: Contact
-  - link: http://www.dropbox.com
-    link_text: CV
 ---
 
 <header class="block block-header-1">
@@ -26,9 +12,17 @@ navigation: true
 
   <nav class="block-header-1--nav">
     <ul>
-      {% for nav_item in section.navigation %}
-      <li class="nav-item {% if page.url == nav_item.link %}active{% endif %}"><a href="{{ nav_item.link }}">{{ nav_item.link_text }}</a></li>
-      {% endfor %}
+      
+      <li class="nav-item "><a href="">Home</a></li>
+      
+      <li class="nav-item "><a href="http://nathanlane.info/Research">Research</a></li>
+      
+      <li class="nav-item "><a href="http://nathanlane.info/blog">Blog</a></li>
+      
+      <li class="nav-item "><a href="http://nathanlane.info">Contact</a></li>
+      
+      <li class="nav-item "><a href="http://www.dropbox.com">CV</a></li>
+      
     </ul>
   </nav>
 
@@ -53,6 +47,6 @@ navigation: true
 
 <footer class="block block-footer-1">
   <div class="container">
-    <p>{{ section.content }}</p>
+    <p><a href="mailto:nathaniel.lane@gmail.com" title=""><strong>nathaniel.lane@monash.edu</strong></a> <span class="box"> • </span>Nathan Lane, 2014-2018 <span class="box"> • None of this garbage reflects my institution.</span></p>
   </div>
 </footer>
