@@ -8,12 +8,8 @@ page_sections:
   navigation:
   - link: ''
     link_text: Home
-  - link: http://nathanlane.info/Research
-    link_text: Research
   - link: http://nathanlane.info/blog
     link_text: Blog
-  - link: http://nathanlane.info
-    link_text: Contact
   - link: http://www.dropbox.com
     link_text: CV
 - template: hero-banner-w-image
