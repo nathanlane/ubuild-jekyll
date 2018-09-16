@@ -59,8 +59,7 @@ page_sections:
     development theorists, such as Albert Hirschman. In other words, I find that South
     Korea’s controversial industrial policy was successful in producing industrial
     development, the benefits of which persisted through time and in industries not
-    directly targeted by the policies.</p><p><img src="/uploads/2018/09/15/CirJagAUYAA4a0k.jpg
-    large.jpg"></p>
+    directly targeted by the policies.</p>
   headline: Current Paper
 - template: 1-column-text
   block: one-column-1
