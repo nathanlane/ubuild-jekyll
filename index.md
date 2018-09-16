@@ -82,5 +82,7 @@ page_sections:
   content: <a href="mailto:nathaniel.lane@gmail.com" title=""><strong>nathaniel.lane@monash.edu</strong></a>
     <span class="box">• </span>Nathan Lane, 2014-2018 <span class="box">• None of
     this garbage reflects my institution.</span>
+- template: 4-column-footer
+  block: footer-2
 
 ---
