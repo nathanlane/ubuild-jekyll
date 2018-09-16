@@ -77,15 +77,16 @@ page_sections:
   content: "<ul><li><p>Asian Economic History Conference</p></li><li><p>University
     of Melbourne</p></li><li><p>University of Sydney</p></li><li><p>Geneva Graduate
     Institute</p></li><li><p>University of Queensland</p><p></p></li></ul>"
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Contact
+    content: <strong>Phone (Australia)</strong> +61 (0)399032384<br><strong>Email
+      </strong><a href="mailto:nathaniel.lane@monash.edu" title="">nathaniel.lane@monash.edu</a>
 - template: simple-footer
   block: footer-1
   content: <a href="mailto:nathaniel.lane@gmail.com" title=""><strong>nathaniel.lane@monash.edu</strong></a>
     <span class="box">• </span>Nathan Lane, 2014-2018 <span class="box">• None of
     this garbage reflects my institution.</span>
-- template: 4-column-footer
-  block: footer-2
-  col_2: "<strong>Nathaniel.Lane@monash.edu</strong>"
-  col_3: Nathan Lane, 2014-2018.
-  col_4: "<strong>This terrible blog does not reflect the view of my employer(s).</strong>"
 
 ---
