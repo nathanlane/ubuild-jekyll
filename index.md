@@ -61,12 +61,12 @@ page_sections:
     development, the benefits of which persisted through time and in industries not
     directly targeted by the policies.</p>
   headline: Current Paper
-- template: 1-column-text
-  block: one-column-1
-  headline: Upcoming Talks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
+- template: detail-content
+  block: text-1
+  headline: Publications
+  content: "<p>with Melissa Dell and Pablo Querubin. \"The Historical State, Local
+    Collective Action, and Economic Development in Vietnam.\x03\" <em>Forthcoming</em>.
+    <strong>Econometrica</strong>. </p>"
 - template: detail-content
   block: text-1
   headline: Upcoming Talks
