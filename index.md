@@ -74,9 +74,13 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Upcoming Talks
-  content: "<ul><li><p>Asian Economic History Conference</p></li><li><p>University
-    of Melbourne</p></li><li><p>University of Sydney</p></li><li><p>Geneva Graduate
-    Institute</p></li><li><p>University of Queensland</p><p></p></li></ul>"
+  content: <ul><li><p><a href="http://www.asiaglobalinstitute.hku.hk/en/events/ahec2018/"
+    title="">Asian Economic History Conference</a>, 2018<br><em>Hong Kong, September
+    22</em></p></li><li><p>University of Technology Sydney<br>Sydney, NSW, October
+    10</p></li><li><p>University of Sydney<br>Sydney, NSW, October 12</p></li><li><p>University
+    of Melbourne</p><p><em>Melbourne, VIC, October 17th</em></p></li><li><p>Geneva
+    Graduate Institute</p><p><em>Geneva, CH, November 20th</em></p></li><li><p>University
+    of Queensland</p><p><em>TBA</em></p></li></ul>
 - template: 2-column-text
   block: two-column-1
   col_1:
